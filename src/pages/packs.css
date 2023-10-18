@@ -1,0 +1,16 @@
+.body{
+
+        height: 90vh;
+    gap: 10px;
+        display: flex;
+
+
+
+        align-items: center;
+        justify-content: center;
+    }
+.si{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
